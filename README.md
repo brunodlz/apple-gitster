@@ -7,3 +7,6 @@
 * Set theme name in `.zshrc` `ZSH_THEME="apple-gitster"`
 * Go back directory, and remove directory `rm -rf apple-gitster`
 * Restart theme using `source ~/.zshrc`
+
+### Screenshot
+![demo](demo.gif)
